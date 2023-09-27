@@ -1,0 +1,17 @@
+{
+    "name": "comp3104_devops",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ma3trix/Comp3104_devOps.git"
+    },
+
+    "keywords": ["devops", "nodejs", "express", "web"],
+    "author": "Malik Adebiyi 101276708",
+    "license": "ISC"
+}
